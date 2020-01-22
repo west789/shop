@@ -1,0 +1,9 @@
+{
+    "data": {
+        "user": "张三",
+        "age": 18,
+        "token": "Bearer ejYhfdsafsdfkk"
+    },
+    "msg": "success",
+    "code": 200
+}
